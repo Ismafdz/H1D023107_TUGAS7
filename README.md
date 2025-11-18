@@ -6,7 +6,7 @@ Proyek ini adalah implementasi tugas praktikum Pemrograman Mobile (Pertemuan 7) 
 
 ---
 
-## 📱 Fitur Utama
+##  Fitur Utama
 
 1.  **Sistem Autentikasi (Login & Register):**
     * Pengguna dapat mendaftar akun baru yang datanya disimpan secara lokal.
@@ -26,7 +26,7 @@ Proyek ini adalah implementasi tugas praktikum Pemrograman Mobile (Pertemuan 7) 
 
 ---
 
-## 🔄 Alur Kerja Aplikasi (Workflow)
+##  Alur Kerja Aplikasi (Workflow)
 
 Aplikasi ini dirancang dengan alur kerja yang logis dan user-friendly:
 
@@ -55,7 +55,7 @@ Aplikasi ini dirancang dengan alur kerja yang logis dan user-friendly:
 
 ---
 
-## 📂 Struktur & Penjelasan Kode
+##  Struktur & Penjelasan Kode
 
 Berikut adalah rincian teknis dari setiap file yang membangun aplikasi ini:
 
@@ -95,7 +95,7 @@ Berikut adalah rincian teknis dari setiap file yang membangun aplikasi ini:
 
 ---
 
-## 📸 Tampilan Antarmuka
+##  Tampilan Antarmuka
 
 Berikut adalah pratinjau tampilan aplikasi:
 
@@ -111,7 +111,7 @@ Berikut adalah pratinjau tampilan aplikasi:
 
 ---
 
-## 🚀 Cara Menjalankan Project
+##  Cara Menjalankan Project
 
 1.  Pastikan **Flutter SDK** telah terinstal dan terkonfigurasi.
 2.  Clone repository ini atau ekstrak file zip proyek.
