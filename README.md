@@ -109,6 +109,11 @@ Berikut adalah pratinjau tampilan aplikasi:
 | Detail Page |
 | :---: |
 
+
+https://github.com/user-attachments/assets/e49e84e4-a294-42cd-a5ca-dd081c72f628
+
+
+
 ---
 
 ##  Cara Menjalankan Project
